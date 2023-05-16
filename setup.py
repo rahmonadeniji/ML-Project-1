@@ -14,6 +14,10 @@ def get_requirements(file_path:str)->List[str]:
 
         if e_dot in requirements:
             requirements.remove(e_dot)
+    
+    return requirements
+
+
 
 
 setup(
