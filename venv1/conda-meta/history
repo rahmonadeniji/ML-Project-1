@@ -1,0 +1,17 @@
+==> 2023-05-16 19:59:14 <==
+# cmd: C:\Users\ADENIJI RAHMON O\anaconda3\Scripts\conda-script.py create -p venv1 python==3.9 -y
+# conda version: 23.3.1
++conda-forge/noarch::pip-23.1.2-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-67.7.2-pyhd8ed1ab_0
++conda-forge/noarch::tzdata-2023c-h71feb2d_0
++conda-forge/noarch::wheel-0.40.0-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2023.5.7-h56e8100_0
++conda-forge/win-64::libsqlite-3.41.2-hcfcfb64_1
++conda-forge/win-64::openssl-1.1.1t-hcfcfb64_0
++conda-forge/win-64::python-3.9.0-h7840368_5_cpython
++conda-forge/win-64::sqlite-3.41.2-hcfcfb64_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc-14.3-hb25d44b_16
++conda-forge/win-64::vc14_runtime-14.34.31931-h5081d32_16
++conda-forge/win-64::vs2015_runtime-14.34.31931-hed1258a_16
+# update specs: ['python==3.9']
